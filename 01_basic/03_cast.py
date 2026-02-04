@@ -19,4 +19,4 @@ print(bool(0)) # False
 
 print(bool("")) # False
 print(bool(" ")) # True
-print(bool("False")) # True
+print(bool("False")) # True 
